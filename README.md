@@ -1,7 +1,12 @@
 ## Overview
-Hi, I’m Mahi Jadaun! I’m currently working on various projects, including Travelling website, and I’m constantly enhancing my skills in Data Structures and Algorithms. I also enjoy researching new concepts and collaborating on innovative ideas.
-
-This repository contains my personal coding portfolio, including my projects and contributions, where I aim to help others through knowledge sharing and collaboration.
+👋 Hi there! I'm Mahi Jadaun
+🎓 3rd-year Computer Science student | Aspiring Software Developer
+💻 Passionate about building full-stack web apps with the MERN Stack (MongoDB, Express, React, Node.js)
+🚀 Currently working on real-world projects including a Travel Website, Grocery Web App, and an LMS (Learning Management System)
+🧠 Exploring Data Structures & Algorithms with LeetCode, GFG & Striver's Sheet
+📌 Strong focus on Backend Development, JWT Auth, REST APIs, and Clerk/Firebase Authentication
+🌟 Tech I'm into: React.js | Node.js | MongoDB | Express.js | Firebase | Clerk | Tailwind CSS
+📈 Preparing for SDE roles at top product-based companies
 
 ## Skills & Technologies
 Here are the core technologies and skills I have experience with:
