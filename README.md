@@ -9,7 +9,7 @@ Here are the core technologies and skills I have experience with:
 - **Programming Languages**: 
   - Python
   - Java  
-- **Android App Development**:
+- **Website Development**:
   - HTML
   - CSS
   - JavaScript
